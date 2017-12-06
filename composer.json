@@ -1,6 +1,6 @@
 {
     "name": "launay12u/fpdf_with_dash",
-    "version": "1",
+    "version": "1.0.0",
     "description": "Fork from fpdf, add method dah and font.",
     "type": "library",
     "license": "no usage restriction",
