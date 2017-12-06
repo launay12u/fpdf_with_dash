@@ -1,0 +1,18 @@
+{
+    "name": "launay12u/fpdf_with_dash",
+    "version": "1",
+    "description": "Fork from fpdf, add method dah and font.",
+    "type": "library",
+    "license": "no usage restriction",
+    "authors": [
+        {
+            "name": "Launay guillaume",
+            "email": "g.launay96@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "fpdf.php"
+        ]
+    }
+}
